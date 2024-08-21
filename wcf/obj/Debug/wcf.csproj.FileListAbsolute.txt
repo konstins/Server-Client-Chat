@@ -1,0 +1,7 @@
+D:\вижла\wcf\wcf\bin\Debug\wcf.dll.config
+D:\вижла\wcf\wcf\bin\Debug\wcf.dll
+D:\вижла\wcf\wcf\bin\Debug\wcf.pdb
+D:\вижла\wcf\wcf\obj\Debug\wcf.csproj.AssemblyReference.cache
+D:\вижла\wcf\wcf\obj\Debug\wcf.csproj.CoreCompileInputs.cache
+D:\вижла\wcf\wcf\obj\Debug\wcf.dll
+D:\вижла\wcf\wcf\obj\Debug\wcf.pdb

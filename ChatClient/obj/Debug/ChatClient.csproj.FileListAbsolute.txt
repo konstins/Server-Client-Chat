@@ -1,0 +1,15 @@
+D:\вижла\wcf\ChatClient\bin\Debug\ChatClient.exe.config
+D:\вижла\wcf\ChatClient\bin\Debug\ChatClient.exe
+D:\вижла\wcf\ChatClient\bin\Debug\ChatClient.pdb
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\вижла\wcf\ChatClient\obj\Debug\MainWindow.g.cs
+D:\вижла\wcf\ChatClient\obj\Debug\App.g.cs
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\вижла\wcf\ChatClient\obj\Debug\MainWindow.baml
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient.g.resources
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient.exe
+D:\вижла\wcf\ChatClient\obj\Debug\ChatClient.pdb

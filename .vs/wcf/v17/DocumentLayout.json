@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D652E7B-2D48-4701-B8F0-6FAC261B6379}|ChatClient\\ChatClient.csproj|d:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D652E7B-2D48-4701-B8F0-6FAC261B6379}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D652E7B-2D48-4701-B8F0-6FAC261B6379}|ChatClient\\ChatClient.csproj|d:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D652E7B-2D48-4701-B8F0-6FAC261B6379}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5F3B0F-CDFA-4455-9859-F2479EF94960}|ChatHost\\ChatHost.csproj|d:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\chathost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5F3B0F-CDFA-4455-9859-F2479EF94960}|ChatHost\\ChatHost.csproj|solutionrelative:chathost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489A7E43-D713-45F6-83F9-2948AC8E766C}|wcf\\wcf.csproj|d:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\iservicechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489A7E43-D713-45F6-83F9-2948AC8E766C}|wcf\\wcf.csproj|solutionrelative:wcf\\iservicechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489A7E43-D713-45F6-83F9-2948AC8E766C}|wcf\\wcf.csproj|d:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\servicechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489A7E43-D713-45F6-83F9-2948AC8E766C}|wcf\\wcf.csproj|solutionrelative:wcf\\servicechat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489A7E43-D713-45F6-83F9-2948AC8E766C}|wcf\\wcf.csproj|d:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\serveruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489A7E43-D713-45F6-83F9-2948AC8E766C}|wcf\\wcf.csproj|solutionrelative:wcf\\serveruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\ChatClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\ChatClient\\MainWindow.xaml",
+              "RelativeToolTip": "ChatClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-21T07:43:30.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:43:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\ChatHost\\Program.cs",
+              "RelativeDocumentMoniker": "ChatHost\\Program.cs",
+              "ToolTip": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\ChatHost\\Program.cs",
+              "RelativeToolTip": "ChatHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:30:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerUser.cs",
+              "DocumentMoniker": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\ServerUser.cs",
+              "RelativeDocumentMoniker": "wcf\\ServerUser.cs",
+              "ToolTip": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\ServerUser.cs",
+              "RelativeToolTip": "wcf\\ServerUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:14:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceChat.cs",
+              "DocumentMoniker": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\ServiceChat.cs",
+              "RelativeDocumentMoniker": "wcf\\ServiceChat.cs",
+              "ToolTip": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\ServiceChat.cs",
+              "RelativeToolTip": "wcf\\ServiceChat.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:05:30.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceChat.cs",
+              "DocumentMoniker": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\IServiceChat.cs",
+              "RelativeDocumentMoniker": "wcf\\IServiceChat.cs",
+              "ToolTip": "D:\\\u0432\u0438\u0436\u043B\u0430\\wcf\\wcf\\IServiceChat.cs",
+              "RelativeToolTip": "wcf\\IServiceChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:05:13.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

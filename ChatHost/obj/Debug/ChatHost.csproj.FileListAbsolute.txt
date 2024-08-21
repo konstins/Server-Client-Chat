@@ -1,0 +1,11 @@
+D:\вижла\wcf\ChatHost\bin\Debug\ChatHost.exe.config
+D:\вижла\wcf\ChatHost\bin\Debug\ChatHost.exe
+D:\вижла\wcf\ChatHost\bin\Debug\ChatHost.pdb
+D:\вижла\wcf\ChatHost\bin\Debug\wcf.dll
+D:\вижла\wcf\ChatHost\bin\Debug\wcf.pdb
+D:\вижла\wcf\ChatHost\bin\Debug\wcf.dll.config
+D:\вижла\wcf\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+D:\вижла\wcf\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\вижла\wcf\ChatHost\obj\Debug\ChatHost.csproj.Up2Date
+D:\вижла\wcf\ChatHost\obj\Debug\ChatHost.exe
+D:\вижла\wcf\ChatHost\obj\Debug\ChatHost.pdb
